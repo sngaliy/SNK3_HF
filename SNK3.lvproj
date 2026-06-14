@@ -187,7 +187,7 @@
 			<Item Name="AScan3.ctl" Type="VI" URL="../SubVI/Control_EU/AScan3.ctl"/>
 			<Item Name="AScan5.ctl" Type="VI" URL="../Control_EU/AScan5.ctl"/>
 			<Item Name="AScanXY.ctl" Type="VI" URL="../Control_EU/AScanXY.ctl"/>
-			<Item Name="build date time.vi" Type="VI" URL="/E/_git/LV_Unicorn/SubVIs/Common/build date time.vi"/>
+			<Item Name="build date time.vi" Type="VI" URL="../../LV_Unicorn/SubVIs/Common/build date time.vi"/>
 			<Item Name="CheckEndPack2 (SubVI).vi" Type="VI" URL="../SubVI/CheckEndPack2 (SubVI).vi"/>
 			<Item Name="ClusterPack (Type).ctl" Type="VI" URL="../SubVI/Control_EU/ClusterPack (Type).ctl"/>
 			<Item Name="ConfigINI.ctl" Type="VI" URL="../Control_EU/ConfigINI.ctl"/>
@@ -195,19 +195,20 @@
 			<Item Name="DataCluster.ctl" Type="VI" URL="../Control_EU/DataCluster.ctl"/>
 			<Item Name="DataCluster.ctl" Type="VI" URL="../SubVI/Control_EU/DataCluster.ctl"/>
 			<Item Name="dBV_to_dBuV (SubVI).vi" Type="VI" URL="../SubVI/dBV_to_dBuV (SubVI).vi"/>
-			<Item Name="ErrorDescr.vi" Type="VI" URL="/E/_git/LV_Unicorn/SubVIs/Common/ErrorDescr.vi"/>
-			<Item Name="ErrorHandler2.vi" Type="VI" URL="/E/_git/LV_Unicorn/SubVIs/Common/ErrorHandler2.vi"/>
+			<Item Name="ErrorDescr.vi" Type="VI" URL="../../LV_Unicorn/SubVIs/Common/ErrorDescr.vi"/>
+			<Item Name="ErrorHandler2.vi" Type="VI" URL="../../LV_Unicorn/SubVIs/Common/ErrorHandler2.vi"/>
 			<Item Name="FilterCor (Type).ctl" Type="VI" URL="../Control_EU/FilterCor (Type).ctl"/>
 			<Item Name="FindMW2 (SubVI).vi" Type="VI" URL="../SubVI/FindMW2 (SubVI).vi"/>
 			<Item Name="freq_lin_array.vi" Type="VI" URL="../../_lib/FreqSel/freq_lin_array.vi"/>
 			<Item Name="freq_log_array.vi" Type="VI" URL="../../_lib/FreqSel/freq_log_array.vi"/>
 			<Item Name="GainCoeffCorr (SubVI).vi" Type="VI" URL="../SubVI/GainCoeffCorr (SubVI).vi"/>
+			<Item Name="LV_Unicorn.lvlib" Type="Library" URL="../../LV_Unicorn/LV_Unicorn.lvlib"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="MeasControl.ctl" Type="VI" URL="../Control_EU/MeasControl.ctl"/>
 			<Item Name="MeasControl.ctl" Type="VI" URL="../SubVI/Control_EU/MeasControl.ctl"/>
 			<Item Name="MeasControl2.ctl" Type="VI" URL="../Control_EU/MeasControl2.ctl"/>
 			<Item Name="Menu.rtm" Type="Document" URL="../Menu.rtm"/>
-			<Item Name="OPC (SubVI).vi" Type="VI" URL="../../st_adc_vibro/Test2 Folder/SubVIs/AKIP/OPC (SubVI).vi"/>
+			<Item Name="OPC (SubVI).vi" Type="VI" URL="../../../../Users/user/YandexDisk/!Work/_labview/st_adc_vibro/Test2 Folder/SubVIs/AKIP/OPC (SubVI).vi"/>
 			<Item Name="OptionPACK5.ctl" Type="VI" URL="../Control_EU/OptionPACK5.ctl"/>
 			<Item Name="OptionPACK5.ctl" Type="VI" URL="../SubVI/Control_EU/OptionPACK5.ctl"/>
 			<Item Name="Status_pack5.ctl" Type="VI" URL="../Control_EU/Status_pack5.ctl"/>
@@ -219,7 +220,7 @@
 			<Item Name="UNDT_ClusterPackRevers (Type).ctl" Type="VI" URL="../SubVI/Control_EU/UNDT_ClusterPackRevers (Type).ctl"/>
 			<Item Name="UNDT_Graph (Type).ctl" Type="VI" URL="../Control_EU/UNDT_Graph (Type).ctl"/>
 			<Item Name="UNDT_StringToData2 (SubVI).vi" Type="VI" URL="../SubVI/UNDT_StringToData2 (SubVI).vi"/>
-			<Item Name="unicorn_DescriptParam.ctl" Type="VI" URL="/E/_git/LV_Unicorn/Control/unicorn_DescriptParam.ctl"/>
+			<Item Name="unicorn_DescriptParam.ctl" Type="VI" URL="../../LV_Unicorn/Control/unicorn_DescriptParam.ctl"/>
 			<Item Name="Выбор частот.vi" Type="VI" URL="../../_lib/FreqSel/Выбор частот.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
@@ -240,9 +241,9 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{819F89E0-E8C9-4D77-93FD-B3F746B6F440}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
-				<Property Name="Bld_version.patch" Type="Int">7</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SNK3.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../SNK3_builds/SNK3_HF/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -256,7 +257,7 @@
 				<Property Name="Destination[2].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/ico/SNK3_v2.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{07C96037-C9B4-47E7-AECC-2F8DAC6E1982}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{80980400-A6EE-45F1-A9B6-052D98B7A0A8}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SNK3_HF.vi</Property>
