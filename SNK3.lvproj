@@ -37,7 +37,6 @@
 		<Item Name="LV_Unicorn.lvlib" Type="Library" URL="../../LV_Unicorn/LV_Unicorn.lvlib"/>
 		<Item Name="Menu.rtm" Type="Document" URL="../../st_star/Menu.rtm"/>
 		<Item Name="SNK3_HF.vi" Type="VI" URL="../SNK3_HF.vi"/>
-		<Item Name="st_str Set Visable on Multiple Controls.vi" Type="VI" URL="../../st_star/subVIs/st_str Set Visable on Multiple Controls.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="LeCroy Wave Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/LeCroy Wave Series/LeCroy Wave Series.lvlib"/>
