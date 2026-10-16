@@ -222,7 +222,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{819F89E0-E8C9-4D77-93FD-B3F746B6F440}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
 				<Property Name="Bld_version.patch" Type="Int">8</Property>
 				<Property Name="Destination[0].destName" Type="Str">SNK3.exe</Property>
@@ -238,7 +238,7 @@
 				<Property Name="Destination[2].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/ico/SNK3_v2.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A3EACAB8-E2E8-4FCE-8D67-21DB5EF51EC8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4C705302-D5C9-4672-9850-360CAF3240A6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SNK3_HF.vi</Property>
